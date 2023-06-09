@@ -1,0 +1,29 @@
+<style>
+
+form {
+max-height: 600px;
+margin: auto;
+padding: 20px;
+}
+
+h1 {
+text-align: center;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+}
+
+.form-container form {
+    width: '25%';
+}
+
+.cadastro {
+background-color: #58ba44;
+font-family: "Comic Sans MS", sans-serif;
+font-size: 15px;
+font-weight: bold;
+}
+
+</style>
